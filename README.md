@@ -51,7 +51,12 @@ This is a React.js application designed to create a dynamic event calendar. It a
    ```bash
    git clone <repository-url>
 2. Navigate to the project Directory:
+   ```bash
+   cd dynamic-event-calendar
 3. Install Dependencies:
-   - npm install
+   ```bash
+   npm install
 4. Running the App Locally
-   - npm run dev
+   ```bash
+   npm run dev
+The app will be availabe at: http://localhost:5173
