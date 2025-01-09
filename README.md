@@ -1,7 +1,7 @@
 # Dynamic Event Calendar Application
 
 ## *Overview*
-This is a React.js application designed to create a dynamic event calendar. It allows users to view a calendar grid, add, edit, and delete events, and persist event data locally. The app is built using the *Vite* framework and styled with *shadcn* components.
+This is a React.js application designed to create a dynamic event calendar. It allows users to view a calendar grid, add, edit, and delete events, and persist event data locally. The app is built using the *Vite* framework.
 
 ---
 
@@ -26,8 +26,7 @@ This is a React.js application designed to create a dynamic event calendar. It a
 ### *4. Data Persistence*
 - Utilizes *localStorage* to retain event data between page refreshes.
 
-### *5. UI Requirements*
-- Clean, modern design using *shadcn* components.
+### *5. UI/Interface*
 - Clear separation of weekdays and weekends in the calendar.
 - Highlights:
   - The current day.
@@ -51,3 +50,8 @@ This is a React.js application designed to create a dynamic event calendar. It a
 1. Clone the repository:
    ```bash
    git clone <repository-url>
+2. Navigate to the project Directory:
+3. Install Dependencies:
+   - npm install
+4. Running the App Locally
+   - npm run dev
